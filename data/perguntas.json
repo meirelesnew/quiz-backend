@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "enunciado": "Quem pintou a Mona Lisa?",
+    "alternativas": ["Leonardo da Vinci", "Michelangelo", "Rafael", "Caravaggio"],
+    "resposta_correta": 0,
+    "categoria": "Renascimento",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 2,
+    "enunciado": "Em que país nasceu Salvador Dalí?",
+    "alternativas": ["França", "Portugal", "Espanha", "Itália"],
+    "resposta_correta": 2,
+    "categoria": "Surrealismo",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 3,
+    "enunciado": "Qual é o nome da obra mais famosa de Edvard Munch?",
+    "alternativas": ["A Persistência da Memória", "O Grito", "Noite Estrelada", "Guernica"],
+    "resposta_correta": 1,
+    "categoria": "Expressionismo",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 4,
+    "enunciado": "Vincent van Gogh era de qual país?",
+    "alternativas": ["Alemanha", "Bélgica", "Holanda", "França"],
+    "resposta_correta": 2,
+    "categoria": "Pós-Impressionismo",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 5,
+    "enunciado": "Qual artista pintou 'Guernica', sobre os horrores da Guerra Civil Espanhola?",
+    "alternativas": ["Dalí", "Miró", "Picasso", "Goya"],
+    "resposta_correta": 2,
+    "categoria": "Cubismo",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 6,
+    "enunciado": "O movimento artístico que valorizava a representação fiel da realidade chama-se:",
+    "alternativas": ["Romantismo", "Realismo", "Barroco", "Impressionismo"],
+    "resposta_correta": 1,
+    "categoria": "Movimentos",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 7,
+    "enunciado": "Qual artista ficou conhecida pelos autorretratos e pela obra 'As Duas Fridas'?",
+    "alternativas": ["Tarsila do Amaral", "Anita Malfatti", "Frida Kahlo", "Lygia Clark"],
+    "resposta_correta": 2,
+    "categoria": "Arte Moderna",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 8,
+    "enunciado": "A obra 'O Nascimento de Vênus' foi pintada por:",
+    "alternativas": ["Rafael", "Botticelli", "Tiziano", "Leonardo da Vinci"],
+    "resposta_correta": 1,
+    "categoria": "Renascimento",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 9,
+    "enunciado": "Qual técnica usa pigmentos misturados com ovo como aglutinante?",
+    "alternativas": ["Afresco", "Têmpera", "Aquarela", "Encáustica"],
+    "resposta_correta": 1,
+    "categoria": "Técnicas",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 10,
+    "enunciado": "Claude Monet é associado a qual movimento artístico?",
+    "alternativas": ["Cubismo", "Surrealismo", "Impressionismo", "Dadaísmo"],
+    "resposta_correta": 2,
+    "categoria": "Impressionismo",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 11,
+    "enunciado": "Tarsila do Amaral pintou 'Abaporu' em que ano?",
+    "alternativas": ["1918", "1928", "1935", "1922"],
+    "resposta_correta": 1,
+    "categoria": "Arte Brasileira",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 12,
+    "enunciado": "O Barroco surgiu em qual país?",
+    "alternativas": ["França", "Holanda", "Itália", "Espanha"],
+    "resposta_correta": 2,
+    "categoria": "Movimentos",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 13,
+    "enunciado": "Qual museu abriga a Mona Lisa?",
+    "alternativas": ["Metropolitan", "Louvre", "Prado", "Uffizi"],
+    "resposta_correta": 1,
+    "categoria": "Museus",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 14,
+    "enunciado": "Andy Warhol é o principal representante de qual movimento?",
+    "alternativas": ["Minimalismo", "Arte Conceitual", "Pop Art", "Expressionismo Abstrato"],
+    "resposta_correta": 2,
+    "categoria": "Arte Contemporânea",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 15,
+    "enunciado": "A técnica de pintura diretamente na parede com argamassa úmida é chamada de:",
+    "alternativas": ["Mosaico", "Afresco", "Têmpera", "Guache"],
+    "resposta_correta": 1,
+    "categoria": "Técnicas",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 16,
+    "enunciado": "Michelangelo pintou o teto da Capela Sistina entre os anos:",
+    "alternativas": ["1480–1490", "1508–1512", "1520–1530", "1498–1502"],
+    "resposta_correta": 1,
+    "categoria": "Renascimento",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 17,
+    "enunciado": "Qual é o estilo arquitetônico caracterizado por arcos ogivais e vitrais coloridos?",
+    "alternativas": ["Românico", "Barroco", "Gótico", "Neoclássico"],
+    "resposta_correta": 2,
+    "categoria": "Arquitetura",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 18,
+    "enunciado": "O movimento Dadaísta surgiu em qual cidade durante a Primeira Guerra Mundial?",
+    "alternativas": ["Paris", "Berlim", "Zurique", "Viena"],
+    "resposta_correta": 2,
+    "categoria": "Movimentos",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 19,
+    "enunciado": "Qual artista criou as esculturas 'O Pensador' e 'O Beijo'?",
+    "alternativas": ["Bernini", "Rodin", "Brancusi", "Donatello"],
+    "resposta_correta": 1,
+    "categoria": "Escultura",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 20,
+    "enunciado": "A 'Escola de Atenas' é uma obra de:",
+    "alternativas": ["Leonardo da Vinci", "Michelangelo", "Rafael", "Botticelli"],
+    "resposta_correta": 2,
+    "categoria": "Renascimento",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 21,
+    "enunciado": "Wassily Kandinsky é considerado pioneiro de qual movimento?",
+    "alternativas": ["Arte Abstrata", "Impressionismo", "Realismo", "Pop Art"],
+    "resposta_correta": 0,
+    "categoria": "Arte Moderna",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 22,
+    "enunciado": "A obra 'Las Meninas' foi pintada por:",
+    "alternativas": ["Goya", "El Greco", "Velázquez", "Murillo"],
+    "resposta_correta": 2,
+    "categoria": "Barroco",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 23,
+    "enunciado": "Qual artista holandês do século XVII é famoso pelo uso dramático de luz e sombra (chiaroscuro)?",
+    "alternativas": ["Vermeer", "Rembrandt", "Hals", "Rubens"],
+    "resposta_correta": 1,
+    "categoria": "Barroco",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 24,
+    "enunciado": "O movimento artístico que reagiu contra o Iluminismo valorizando emoção e natureza chama-se:",
+    "alternativas": ["Neoclassicismo", "Romantismo", "Realismo", "Simbolismo"],
+    "resposta_correta": 1,
+    "categoria": "Movimentos",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 25,
+    "enunciado": "Qual obra de Michelangelo representa o rei bíblico Davi?",
+    "alternativas": ["Pietà", "Moisés", "Davi", "Baco"],
+    "resposta_correta": 2,
+    "categoria": "Escultura",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 26,
+    "enunciado": "A Bauhaus foi uma escola de design fundada em qual país?",
+    "alternativas": ["França", "Suíça", "Alemanha", "Áustria"],
+    "resposta_correta": 2,
+    "categoria": "Design",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 27,
+    "enunciado": "Paul Cézanne é considerado o pai de qual movimento do século XX?",
+    "alternativas": ["Surrealismo", "Cubismo", "Futurismo", "Expressionismo"],
+    "resposta_correta": 1,
+    "categoria": "Pós-Impressionismo",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 28,
+    "enunciado": "Qual artista japonês criou a famosa gravura 'A Grande Onda de Kanagawa'?",
+    "alternativas": ["Hiroshige", "Hokusai", "Utamaro", "Kuniyoshi"],
+    "resposta_correta": 1,
+    "categoria": "Arte Oriental",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 29,
+    "enunciado": "O termo 'Renascimento' refere-se ao renascimento da cultura de qual civilização antiga?",
+    "alternativas": ["Egípcia", "Grega e Romana", "Persa", "Mesopotâmica"],
+    "resposta_correta": 1,
+    "categoria": "Renascimento",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 30,
+    "enunciado": "Qual artista brasileiro é famoso pelos painéis da Pampulha em Belo Horizonte?",
+    "alternativas": ["Di Cavalcanti", "Portinari", "Volpi", "Guignard"],
+    "resposta_correta": 1,
+    "categoria": "Arte Brasileira",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 31,
+    "enunciado": "A 'Última Ceia' de Leonardo da Vinci está localizada em qual cidade?",
+    "alternativas": ["Roma", "Florença", "Milão", "Veneza"],
+    "resposta_correta": 2,
+    "categoria": "Renascimento",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 32,
+    "enunciado": "Qual movimento artístico é caracterizado por formas inspiradas em sonhos e no inconsciente?",
+    "alternativas": ["Dadaísmo", "Surrealismo", "Futurismo", "Construtivismo"],
+    "resposta_correta": 1,
+    "categoria": "Surrealismo",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 33,
+    "enunciado": "O artista Jackson Pollock é famoso pela técnica de:",
+    "alternativas": ["Pointilismo", "Dripping (pingos)", "Colagem", "Encáustica"],
+    "resposta_correta": 1,
+    "categoria": "Arte Contemporânea",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 34,
+    "enunciado": "Qual é o período histórico da arte egípcia clássica?",
+    "alternativas": ["500–300 a.C.", "3000–30 a.C.", "1000–500 a.C.", "2000–500 d.C."],
+    "resposta_correta": 1,
+    "categoria": "Arte Antiga",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 35,
+    "enunciado": "O movimento Impressionista recebeu esse nome a partir de uma obra de Monet chamada:",
+    "alternativas": ["Nenúfares", "Impressão: Sol Nascente", "Catedral de Rouen", "Almoço na Relva"],
+    "resposta_correta": 1,
+    "categoria": "Impressionismo",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 36,
+    "enunciado": "Qual artista pintou 'A Noite Estrelada'?",
+    "alternativas": ["Paul Gauguin", "Vincent van Gogh", "Georges Seurat", "Paul Cézanne"],
+    "resposta_correta": 1,
+    "categoria": "Pós-Impressionismo",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 37,
+    "enunciado": "A técnica pontilhista foi desenvolvida por qual artista?",
+    "alternativas": ["Paul Signac", "Georges Seurat", "Camille Pissarro", "Edgar Degas"],
+    "resposta_correta": 1,
+    "categoria": "Impressionismo",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 38,
+    "enunciado": "Qual artista é considerado o principal representante do Expressionismo Abstrato americano além de Pollock?",
+    "alternativas": ["Mark Rothko", "Roy Lichtenstein", "Jasper Johns", "Robert Rauschenberg"],
+    "resposta_correta": 0,
+    "categoria": "Arte Contemporânea",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 39,
+    "enunciado": "A Semana de Arte Moderna brasileira ocorreu em que ano?",
+    "alternativas": ["1918", "1920", "1922", "1930"],
+    "resposta_correta": 2,
+    "categoria": "Arte Brasileira",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 40,
+    "enunciado": "Qual museu brasileiro abriga o acervo mais importante de arte moderna do país?",
+    "alternativas": ["MASP", "MAM-RJ", "Pinacoteca", "Instituto Inhotim"],
+    "resposta_correta": 0,
+    "categoria": "Museus",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 41,
+    "enunciado": "O Neoclassicismo foi influenciado pelas descobertas arqueológicas de qual cidade romana?",
+    "alternativas": ["Roma", "Pompeia", "Nápoles", "Herculano"],
+    "resposta_correta": 1,
+    "categoria": "Movimentos",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 42,
+    "enunciado": "Qual artista criou a instalação 'The Physical Impossibility of Death in the Mind of Someone Living' com um tubarão em formol?",
+    "alternativas": ["Jeff Koons", "Damien Hirst", "Banksy", "Tracey Emin"],
+    "resposta_correta": 1,
+    "categoria": "Arte Contemporânea",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 43,
+    "enunciado": "O estilo artístico que usa formas geométricas para representar objetos de vários ângulos simultaneamente é:",
+    "alternativas": ["Futurismo", "Cubismo", "Construtivismo", "Suprematismo"],
+    "resposta_correta": 1,
+    "categoria": "Cubismo",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 44,
+    "enunciado": "Qual artista grega antiga é famosa pela Vênus de Milo?",
+    "alternativas": ["É anônima", "Praxíteles", "Fídias", "Policleto"],
+    "resposta_correta": 0,
+    "categoria": "Arte Antiga",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 45,
+    "enunciado": "O Futurismo foi um movimento artístico que exaltava:",
+    "alternativas": ["A natureza e o campo", "A velocidade e a tecnologia moderna", "O passado clássico", "O sonho e o inconsciente"],
+    "resposta_correta": 1,
+    "categoria": "Movimentos",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 46,
+    "enunciado": "Qual é o nome da técnica de colagem inventada pelos cubistas?",
+    "alternativas": ["Assemblage", "Papier collé", "Decalcomania", "Frottage"],
+    "resposta_correta": 1,
+    "categoria": "Técnicas",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 47,
+    "enunciado": "O artista Caravaggio é famoso por qual característica principal em suas pinturas?",
+    "alternativas": ["Uso de cores pastel", "Contraste extremo de luz e sombra", "Figuras alongadas", "Paisagens detalhadas"],
+    "resposta_correta": 1,
+    "categoria": "Barroco",
+    "dificuldade": "medio"
+  },
+  {
+    "id": 48,
+    "enunciado": "A Pietà de Michelangelo está localizada em qual local?",
+    "alternativas": ["Museu do Vaticano", "Basílica de São Pedro", "Galeria Uffizi", "Museu Borghese"],
+    "resposta_correta": 1,
+    "categoria": "Renascimento",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": 49,
+    "enunciado": "Qual artista holandês pintou 'A Moça com Brinco de Pérola'?",
+    "alternativas": ["Rembrandt", "Hals", "Vermeer", "Steen"],
+    "resposta_correta": 2,
+    "categoria": "Barroco",
+    "dificuldade": "facil"
+  },
+  {
+    "id": 50,
+    "enunciado": "O Instituto Inhotim, maior museu a céu aberto do mundo, está localizado em qual estado brasileiro?",
+    "alternativas": ["São Paulo", "Rio de Janeiro", "Minas Gerais", "Bahia"],
+    "resposta_correta": 2,
+    "categoria": "Museus",
+    "dificuldade": "facil"
+  }
+]
